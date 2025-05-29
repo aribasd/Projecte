@@ -12,7 +12,7 @@ static int NewMethod(int numero, int numfinal, int countmultiples)
 
 /*MISSATGE PER FER UN CANVI DEL NOSTRE PROJECTE*/
 
-
+/*Comentari Github*/
 
 /*Activitat 1*/
 
