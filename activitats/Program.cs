@@ -10,6 +10,10 @@ static int NewMethod(int numero, int numfinal, int countmultiples)
     return countmultiples;
 }
 
+/*MISSATGE PER FER UN CANVI DEL NOSTRE PROJECTE*/
+
+
+
 /*Activitat 1*/
 
 static void Main(string[] args)
