@@ -1,0 +1,2 @@
+Aquest projecte és una aplicació per a la gestió d’activitats.
+Conté el codi font, arxius de configuració i documentació bàsica.
