@@ -14,6 +14,15 @@ static int NewMethod(int numero, int numfinal, int countmultiples)
 
 /*Comentari Github*/
 
+/*ULTIM EXERCICI!*/ 
+
+
+/*d*/
+
+
+
+
+
 /*Activitat 1*/
 
 static void Main(string[] args)
